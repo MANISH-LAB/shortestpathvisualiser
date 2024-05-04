@@ -218,7 +218,7 @@ class App extends React.Component {
                         {this.state.multiGrid ? 'Single Maze' : 'Compare Algorithms'}
                     </button>
                 </div>
-                <a href={'https://github.com/Waqas-Abbasi/shortest-path-visualiser'}><img className={'githubLogo'} src={GithubLogo} alt='Project Github Link'/></a>
+                <a href={'https://github.com/MANISH-LAB/shortestpathvisualiser'}><img className={'githubLogo'} src={GithubLogo} alt='Project Github Link'/></a>
             </div>
         );
     };
